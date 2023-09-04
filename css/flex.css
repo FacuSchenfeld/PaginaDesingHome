@@ -1,0 +1,21 @@
+ul li{
+    display: inline-block;
+    position: relative;
+    margin: 55px;
+}
+
+.logo_container{
+    align-items: flex-start;
+    justify-content: center;
+
+}
+
+.mapa iframe{
+    position: relative;
+    left: 450px;
+}
+
+.imag_muestra img{
+    position: relative;
+    right: 500px;
+}

@@ -1,0 +1,75 @@
+@import url('https://fonts.googleapis.com/css2?family=Rubik:ital,wght@0,600;0,700;0,800;0,900;1,600;1,700;1,800;1,900&display=swap');
+
+/* reset */
+*{
+    margin: 0;
+    padding: 0;
+}
+
+@font-face {
+    font-family: "Ice Cream";
+    src: url(../fonts/Ice\ Cream.otf);
+}
+
+.logo_container img{
+    width: 250px;
+    padding-left: 140px;
+}
+
+.logo_container span{
+    font-size: 105px;
+    font-family: "Ice Cream", cursive;
+    color: #78039c;
+}
+
+.logo_container{
+    padding-left: 500px;
+    background-color: #e692f8;
+}
+
+body {
+    background-color: #f2c9fb;
+    font-family: 'Rubik', sans-serif;
+}
+
+.titulos_principales{
+    font-size: 30px;
+    color: #78039c;
+}
+
+.nav_links{
+    font-weight: 800;
+    font-size: 20px;
+}
+
+
+
+a{
+    color: black;
+}
+
+.selec{
+    color: #c238eb;
+}
+
+
+.titulo_secundario{
+    font-size: 25px;
+    color: #78039c;
+}
+
+.info{
+    font-size: 15px;
+    color: black;
+}
+
+
+div img{
+    width: 350px;
+    border: 1px solid black;
+}
+
+.form_control input{
+    border: 1px solid #c238eb;
+    border-radius: 5px;
+}
